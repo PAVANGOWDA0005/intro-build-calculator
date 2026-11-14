@@ -1,4 +1,3 @@
-@'
 # Intelligent Calculator Agent (LangChain & Groq)
 
 ## Project Overview
